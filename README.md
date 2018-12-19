@@ -1,6 +1,6 @@
 # flexbox_navbar
 
-Flex your flexbox skills and create a responsive nav bar.
+Flex your flexbox skills and create a responsive nav bar in the styles.css file.
 
 Some hints:
 1. the nav element will have the following properties:
